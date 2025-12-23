@@ -1,0 +1,2 @@
+# Machine-learning-pipeline-for-gallstone-disease-prediction
+Machine learning pipeline for gallstone disease prediction using clinical data. The project evaluates Logistic Regression, Random Forest, and Neural Networks with extensive feature engineering and multicollinearity handling, achieving up to 78% accuracy. Unsupervised K-Prototypes clustering is also used to identify distinct metabolic risk profiles.
